@@ -3,7 +3,7 @@ publication_name: "typebase_dev"
 title: "shadcn/uiを使ってWebアプリ開発したらとても快適だった"
 emoji: "🤸"
 type: "tech"
-topics: ["shadcnui", "tailwindcss", "nextjs"]
+topics: ["shadcnui", "tailwindcss", "nextjs", "radix", "javascript"]
 published: true
 ---
 

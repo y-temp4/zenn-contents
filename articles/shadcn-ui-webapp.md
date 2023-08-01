@@ -42,7 +42,7 @@ https://zenn.dev/mottox2/articles/react-shadcn-ui
 
 ## shadcn/uiを用いて実装した画面の例
 
-以下は、アプリケーションの設定画面です。この画面では主にフォームの実装を shadcn/ui で行っています。
+以下は、今回作成した Web アプリケーションの設定画面です。この画面では主にフォームの実装を shadcn/ui で行っています。
 
 ![](https://storage.googleapis.com/zenn-user-upload/8017321725fd-20230729.png)
 

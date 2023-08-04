@@ -11,7 +11,7 @@ published: true
 
 https://twitter.com/CloudflareDev/status/1686812617153593355
 
-これまではこの 2 つのドメインを取得しようとすると、おそらく [Google Domains](https://domains.google/intl/ja_jp/) を利用する方が多かったかなと思います。しかし Google Domains は 2023 年後半にサービスが終了し、Squarespace 社に事業譲渡されることが発表されています。
+これまではこの 2 つのドメインを取得しようとする際に [Google Domains](https://domains.google/intl/ja_jp/) を利用する方が多かったかなと思います。しかし Google Domains は 2023 年後半にサービスが終了し、Squarespace 社に事業譲渡されることが発表されています。
 
 これまでは Google Domains からの移管先として Cloudflare Registrar を選びたくても、`.dev` や `.app` を利用しているからできない･･･！と困っている方も多かったかなと思います（自分もその一人でした）が、これでようやく Cloudflare Registrar へ移管ができるようになりました🎉
 

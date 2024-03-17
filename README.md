@@ -1,3 +1,3 @@
-# Zenn CLI
+# zenn-contents
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+https://zenn.dev/yt4

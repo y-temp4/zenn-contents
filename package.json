@@ -2,7 +2,7 @@
   "name": "zenn-contents",
   "version": "1.0.0",
   "repository": "ssh://git@github.com/y-temp4/zenn-contents",
-  "author": "y-temp4 <y.temp4@gmail.com>",
+  "author": "y-temp4",
   "license": "UNLICENSED",
   "scripts": {
     "new:article": "zenn new:article",

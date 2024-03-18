@@ -126,7 +126,7 @@ import Link from 'next/link'
 
 また、Remix 公式における型安全なルーティングについても、あまり積極的に議論されていないように見えます。
 
-参考: [[Feature]: Typed routes · Issue #9791 · remix-run/react-router](https://github.com/remix-run/react-router/issues/9791)
+参考：[[Feature]: Typed routes · Issue #9791 · remix-run/react-router](https://github.com/remix-run/react-router/issues/9791)
 
 もちろん、将来的にはどうなるかはわかりませんが、少なくとも直近では上記のようなサードパーティ製のライブラリを使うことになりそうです[^remix-routes]。
 

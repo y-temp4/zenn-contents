@@ -1,12 +1,11 @@
 ---
+publication_name: "typebase_dev"
 title: "Rust未経験でも5日でサービス公開！Vibe Codingの威力がすごかった話"
 emoji: "💥"
 type: "tech"
 topics: ["rust", "nextjs", "vibecoding", "oss", "個人開発"]
 published: true
 ---
-
-## 本記事の概要
 
 本日、[**みんなの話題**](https://minwada.com) というサービスを公開しました！  
 このサービスは Vibe Coding により **Rust 未経験** の状態から約 5 日[^5days]で開発したものです。  

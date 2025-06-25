@@ -7,7 +7,9 @@ topics: ["gemini", "cli", "ai", "geminicli"]
 published: true
 ---
 
-日本時間の 2025 年 6 月 25 日の午後 10:08 に、正式に Gemini CLI が発表されました。
+日本時間の 2025 年 6 月 25 日の午後 10:08 に、正式[^1] に Gemini CLI が発表されました。
+
+[^1]: 実は正式公開前に少し情報が出ていたようですが、すぐに消されていました。
 
 https://x.com/GoogleCloudTech/status/1937860467843625124
 
@@ -44,7 +46,7 @@ gemini
 
 すると以下のような画面が表示され、まずはテーマの選択を求められます。
 選択できるテーマが結構多いですね👀
-私は GitHub を選びました。
+自分は GitHub を選びました。
 
 ![](/images/gemini-cli-first-impression/select-theme.png)
 

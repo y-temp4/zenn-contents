@@ -1,12 +1,13 @@
 ---
+publication_name: "typebase_dev"
 title: "最速でGemini CLIを試す"
 emoji: "🚀"
 type: "tech"
-topics: ["gemini", "cli"]
+topics: ["gemini", "cli", "ai", "geminicli"]
 published: true
 ---
 
-日本時間の 2025 年 6 月 25 日午後 10:08 に、正式に Gemini CLI が発表されました。
+日本時間の 2025 年 6 月 25 日の午後 10:08 に、正式に Gemini CLI が発表されました。
 
 https://x.com/GoogleCloudTech/status/1937860467843625124
 
@@ -25,7 +26,7 @@ https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-
 それではさっそく、Gemini CLI をインストールして使ってみましょう。
 インストールの手順は以下のリポジトリから確認できます。
 
-※Gemini CLI を使うためには Node.js の 18 以上が必要です。
+※Gemini CLI を使うためには Node.js の v18 以上が必要です。
 
 https://github.com/google-gemini/gemini-cli/
 
@@ -48,7 +49,7 @@ gemini
 ![](/images/gemini-cli-first-impression/select-theme.png)
 
 続いて、認証に進みます。
-Login with Google を選択すると、ブラウザが開いて Google アカウントの認証を求められます。
+Login with Google を選択すると、ブラウザが開いて Google アカウントの認証が求められます。
 
 ![](/images/gemini-cli-first-impression/auth.png)
 

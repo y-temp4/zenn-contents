@@ -7,6 +7,15 @@ topics: ["gemini", "cli", "ai", "geminicli"]
 published: true
 ---
 
+## 追記
+
+Gemini CLI を使って簡単な Web アプリを作成してみる動画を公開しました！  
+Gemini CLI の実際の挙動を見てみたい方はぜひご確認ください。
+
+https://www.youtube.com/watch?v=EjxD-xkxgm0
+
+## はじめに
+
 日本時間の 2025 年 6 月 25 日の午後 10:08 に、正式[^1] に Gemini CLI が発表されました。
 
 [^1]: 実は正式公開前に少し情報が出ていたようですが、すぐに消されていました。

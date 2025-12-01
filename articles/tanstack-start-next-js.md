@@ -118,7 +118,7 @@ https://azukiazusa.dev/blog/try-remix-v3/
 
 そのため、自分も元の投稿に寄せられた意見の大半と同じく、今では TanStack Start 寄りの立場にいます。
 
-https://x.com/y_temp4/status/1993833516585648535
+https://x.com/y_temp4/status/1993833516585648535?conversation=none
 
 判断材料として、自分が重視したポイントは以下の通りです。
 
@@ -168,7 +168,7 @@ https://zenn.dev/chiji/articles/a8eaa9ed1d042c#2.-tanstack-start
 
 そして国内ではまだ TanStack Start の採用事例が少ないこともあり、今回のような議論は非常に興味深く感じました。
 
-みなさんは今回の議論について、どのように感じましたか？ぜひ記事へのコメントや [X](https://x.com/y_temp4) 等で教えてください。
+みなさんは今回の議論について、どのように感じましたか？ぜひ記事へのコメントや [X](https://x.com/y_temp4/status/1995318461648793857) 等で教えてください。
 
 [^1]: [https://x.com/VLTHellolin/status/1993302410178314487](https://x.com/VLTHellolin/status/1993302410178314487)
 [^2]: [https://x.com/_7obaid_/status/1992707426232287620](https://x.com/_7obaid_/status/1992707426232287620)

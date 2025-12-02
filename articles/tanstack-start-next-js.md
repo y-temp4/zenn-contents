@@ -179,7 +179,7 @@ https://zenn.dev/chiji/articles/a8eaa9ed1d042c#2.-tanstack-start
 みなさんは今回の議論について、どのように感じましたか？ぜひ記事へのコメントや [X](https://x.com/y_temp4/status/1995318461648793857) 等で教えてください。
 
 [^1]: [https://x.com/VLTHellolin/status/1993302410178314487](https://x.com/VLTHellolin/status/1993302410178314487)
-[^2]: [https://x.com/_7obaid_/status/1992707426232287620](https://x.com/_7obaid_/status/1992707426232287620)
+[^2]: [https://x.com/\_7obaid\_/status/1992707426232287620](https://x.com/_7obaid_/status/1992707426232287620)
 [^3]: [https://x.com/hugokorte_/status/1992745680834859205](https://x.com/hugokorte_/status/1992745680834859205)
 [^4]: [https://x.com/KaousNadirHatem/status/1992878092298461266](https://x.com/KaousNadirHatem/status/1992878092298461266)
 [^5]: [https://x.com/ddsuhaimi_/status/1992844742653337899](https://x.com/ddsuhaimi_/status/1992844742653337899)
